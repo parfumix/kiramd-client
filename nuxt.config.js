@@ -1,4 +1,15 @@
 export default {
+
+  // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
+  ssr: true,
+
+  // Target: https://go.nuxtjs.dev/config-target
+  target: 'server',
+
+  server: {
+    port: 3300, // default: 3300
+  },
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'client',
@@ -41,6 +52,11 @@ export default {
   build: {
   },
 
+  tailwindcss: {
+    configPath: '~/config/tailwind.js',
+    exposeConfig: true
+  },
+  
   pwa: {
   }
 }
