@@ -1,6 +1,6 @@
 <template>
     <div class="bg-white">
-      <div class="max-w-7xl mx-auto py-12 px-4 sm:px-2 lg:px-4">
+      <div class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
         <div class="max-w-4xl mx-auto">
         
     <div>
