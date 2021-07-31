@@ -30,7 +30,7 @@
                   </div>
                   <div class="ml-3">
                     <p class="text-base font-medium text-white">
-                      Tom Cook
+                      Rusu Andrei
                     </p>
                     <p class="text-sm font-medium text-gray-400 group-hover:text-gray-300">
                       View profile
