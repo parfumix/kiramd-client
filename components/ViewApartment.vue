@@ -4,12 +4,13 @@
           <div class="col-span-full md:col-span-2">
             <img src="~assets/photo_1.jpeg" class="rounded-md shadow-md" alt="">
           </div>
-          <div class="col-span-full md:col-span-1 grid-cols-3 md:grid-cols-2 gap-3">
-            <img src="~assets/photo_1.jpeg" class="rounded-md shadow-md" alt="">
-            <img src="~assets/photo_1.jpeg" class="rounded-md shadow-md" alt="">
-            <img src="~assets/photo_1.jpeg" class="rounded-md shadow-md" alt="">
+          <div class="col-span-full md:col-span-1 grid grid-cols-3 md:grid-cols-2 gap-3">
+            <img src="~assets/photo_3.jpeg" class="rounded-md shadow-md" alt="">
+            <img src="~assets/photo_2.jpeg" class="rounded-md shadow-md" alt="">
           </div>
-          <div class="col-span-1">2</div>
+          <div class="col-span-1">
+            <Info />
+          </div>
         </div>
     </div>
 </template>

@@ -16,8 +16,9 @@
             <div class="flex-1 h-0 pt-5 pb-4 overflow-y-auto">
               <div class="flex-shrink-0 flex items-center px-4">
                 <NuxtLink to="/">
-                  <img class="h-8 w-auto" src="https://tailwindui.com/img/logos/workflow-logo-indigo-500-mark-white-text.svg" alt="Workflow">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="h-8 stroke-current text-gray-100 w-auto" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" /></svg>
                 </NuxtLink>
+                <h2 class="pl-2 text-xl font-extrabold text-gray-200">KIRA</h2>
               </div>
               <Sidebar class="mt-5 px-2 space-y-1" />
             </div>
@@ -53,8 +54,9 @@
             <div class="flex-1 flex flex-col pt-5 pb-4 overflow-y-auto">
               <div class="flex items-center flex-shrink-0 px-4">
                 <NuxtLink to="/">
-                  <img class="h-8 w-auto" src="https://tailwindui.com/img/logos/workflow-logo-indigo-500-mark-white-text.svg" alt="Workflow">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="h-8 stroke-current text-gray-100 w-auto" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" /></svg>
                 </NuxtLink>
+                <h2 class="pl-2 text-xl font-extrabold text-gray-200">KIRA</h2>
               </div>
               <Sidebar class="mt-5 flex-1 px-2 bg-gray-800 space-y-1" />
             </div>
@@ -66,7 +68,7 @@
                   </div>
                   <div class="ml-3">
                     <p class="text-sm font-medium text-white">
-                      Tom Cook
+                      Rusu Andrei
                     </p>
                     <p class="text-xs font-medium text-gray-300 group-hover:text-gray-200">
                       View profile
